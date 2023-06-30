@@ -1,0 +1,76 @@
+{
+  "Unorganized": [
+    {
+      "width": 1203,
+      "height": 1504,
+      "path": "./photos/Unorganized/img_7.jpeg",
+      "compressed_path": "./photos/Unorganized/img_7.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_7.placeholder.jpeg"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Unorganized/photography-sunset.jpeg",
+      "compressed_path": "./photos/Unorganized/photography-sunset.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/photography-sunset.placeholder.jpeg"
+    },
+    {
+      "width": 1080,
+      "height": 1350,
+      "path": "./photos/Unorganized/img_6.jpeg",
+      "compressed_path": "./photos/Unorganized/img_6.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_6.placeholder.jpeg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Unorganized/img_1.jpeg",
+      "compressed_path": "./photos/Unorganized/img_1.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_1.placeholder.jpeg"
+    },
+    {
+      "width": 440,
+      "height": 352,
+      "path": "./photos/Unorganized/photography-thunder.jpeg",
+      "compressed_path": "./photos/Unorganized/photography-thunder.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/photography-thunder.placeholder.jpeg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Unorganized/img_3.jpeg",
+      "compressed_path": "./photos/Unorganized/img_3.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_3.placeholder.jpeg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Unorganized/img_2.jpeg",
+      "compressed_path": "./photos/Unorganized/img_2.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_2.placeholder.jpeg"
+    },
+    {
+      "width": 1080,
+      "height": 720,
+      "path": "./photos/Unorganized/img_5.jpeg",
+      "compressed_path": "./photos/Unorganized/img_5.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_5.placeholder.jpeg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Unorganized/img_4.jpeg",
+      "compressed_path": "./photos/Unorganized/img_4.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Unorganized/img_4.placeholder.jpeg"
+    }
+  ]
+}
