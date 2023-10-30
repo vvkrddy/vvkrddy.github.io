@@ -1,0 +1,12 @@
+**/*.DS_Store
+**/*.jpg
+!/**/*min.jpg
+!/**/*placeholder.jpg
+**/*.jpeg
+!/**/*min.jpeg
+!/**/*placeholder.jpeg
+**/*.png
+!/**/*min.png
+!/**/*placeholder.png
+_site/
+!apps/**/*.png 

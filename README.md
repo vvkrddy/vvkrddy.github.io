@@ -1,0 +1,1 @@
+&copy; 2023 [https://vvkrddy.com](https://vvkrddy.com)
